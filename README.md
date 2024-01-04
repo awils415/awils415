@@ -1,6 +1,5 @@
 # :space_invader: Aniya Wilson
 
----
 Working on projects that not only captivate my interest but also serve as a playground to build my skillset and deepen my knowledge as a developer.
 
 **Contact me:**
